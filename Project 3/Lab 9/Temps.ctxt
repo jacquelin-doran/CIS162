@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Temps
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Temps\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=monthName\ year
+comment1.target=Temps(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Temps\r\n
+comment2.params=tempStr
+comment2.target=void\ setTemps(java.lang.String)
+comment2.text=\r\na\ method\r\n
+comment3.params=
+comment3.target=double\ getAverage()
+comment4.params=
+comment4.target=int\ getHighest()
+comment5.params=
+comment5.target=int\ getLowest()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=void\ printTemps()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
